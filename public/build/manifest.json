@@ -1,0 +1,139 @@
+{
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-500-normal.woff": {
+    "file": "assets/el-messiri-arabic-500-normal-CdoJJOcF.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-500-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-500-normal.woff2": {
+    "file": "assets/el-messiri-arabic-500-normal-D6j8R5ND.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-600-normal.woff": {
+    "file": "assets/el-messiri-arabic-600-normal-qhBYdKVW.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-600-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-600-normal.woff2": {
+    "file": "assets/el-messiri-arabic-600-normal-Te2c8S-M.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-600-normal.woff2"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-700-normal.woff": {
+    "file": "assets/el-messiri-arabic-700-normal-wfXImB6W.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-700-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-700-normal.woff2": {
+    "file": "assets/el-messiri-arabic-700-normal-D9aO7CWn.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-arabic-700-normal.woff2"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-500-normal.woff": {
+    "file": "assets/el-messiri-latin-500-normal-CHe1spty.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-500-normal.woff2": {
+    "file": "assets/el-messiri-latin-500-normal-lZI9Gh56.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-600-normal.woff": {
+    "file": "assets/el-messiri-latin-600-normal-DtTIqwTa.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-600-normal.woff2": {
+    "file": "assets/el-messiri-latin-600-normal-C464YPm_.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-700-normal.woff": {
+    "file": "assets/el-messiri-latin-700-normal-CqBzUBvy.woff",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/el-messiri/files/el-messiri-latin-700-normal.woff2": {
+    "file": "assets/el-messiri-latin-700-normal-2VyxPaO_.woff2",
+    "src": "node_modules/@fontsource/el-messiri/files/el-messiri-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff": {
+    "file": "assets/tajawal-arabic-400-normal-DCQxawbB.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff2": {
+    "file": "assets/tajawal-arabic-400-normal-CyCXRvzh.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff": {
+    "file": "assets/tajawal-arabic-500-normal-CbVEaYEW.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff2": {
+    "file": "assets/tajawal-arabic-500-normal-BZ8ojJNu.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff": {
+    "file": "assets/tajawal-arabic-700-normal-9L7Zusdl.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff2": {
+    "file": "assets/tajawal-arabic-700-normal-D2-eand5.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff": {
+    "file": "assets/tajawal-latin-400-normal-BdYcZznU.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff2": {
+    "file": "assets/tajawal-latin-400-normal-BVNSOH3d.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff": {
+    "file": "assets/tajawal-latin-500-normal-DU9v6xgj.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff2": {
+    "file": "assets/tajawal-latin-500-normal-CoYeBiSI.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff": {
+    "file": "assets/tajawal-latin-700-normal-CV3bxpHe.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff2": {
+    "file": "assets/tajawal-latin-700-normal-BypgxfGb.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CU_Sz3vF.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "assets": [
+      "assets/el-messiri-arabic-500-normal-D6j8R5ND.woff2",
+      "assets/el-messiri-arabic-500-normal-CdoJJOcF.woff",
+      "assets/el-messiri-arabic-600-normal-Te2c8S-M.woff2",
+      "assets/el-messiri-arabic-600-normal-qhBYdKVW.woff",
+      "assets/el-messiri-arabic-700-normal-D9aO7CWn.woff2",
+      "assets/el-messiri-arabic-700-normal-wfXImB6W.woff",
+      "assets/el-messiri-latin-500-normal-lZI9Gh56.woff2",
+      "assets/el-messiri-latin-500-normal-CHe1spty.woff",
+      "assets/el-messiri-latin-600-normal-C464YPm_.woff2",
+      "assets/el-messiri-latin-600-normal-DtTIqwTa.woff",
+      "assets/el-messiri-latin-700-normal-2VyxPaO_.woff2",
+      "assets/el-messiri-latin-700-normal-CqBzUBvy.woff",
+      "assets/tajawal-arabic-400-normal-CyCXRvzh.woff2",
+      "assets/tajawal-arabic-400-normal-DCQxawbB.woff",
+      "assets/tajawal-arabic-500-normal-BZ8ojJNu.woff2",
+      "assets/tajawal-arabic-500-normal-CbVEaYEW.woff",
+      "assets/tajawal-arabic-700-normal-D2-eand5.woff2",
+      "assets/tajawal-arabic-700-normal-9L7Zusdl.woff",
+      "assets/tajawal-latin-400-normal-BVNSOH3d.woff2",
+      "assets/tajawal-latin-400-normal-BdYcZznU.woff",
+      "assets/tajawal-latin-500-normal-CoYeBiSI.woff2",
+      "assets/tajawal-latin-500-normal-DU9v6xgj.woff",
+      "assets/tajawal-latin-700-normal-BypgxfGb.woff2",
+      "assets/tajawal-latin-700-normal-CV3bxpHe.woff"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CLcFUXSi.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "MenuQR",
+    "short_name": "MenuQR",
+    "description": "Digital QR menu and table ordering for restaurants and cafés.",
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#FBF5E9",
+    "theme_color": "#23201C",
+    "lang": "ar",
+    "dir": "rtl",
+    "categories": ["food", "business", "productivity"],
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
